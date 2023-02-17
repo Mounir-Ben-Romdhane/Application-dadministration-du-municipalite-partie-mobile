@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="fss.lsi.formation_mobile_login">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Formation_mobile_login">
+        <activity
+            android:name=".SondageExist"
+            android:exported="false" />
+        <activity
+            android:name=".RendezVous"
+            android:exported="false" />
+        <activity
+            android:name=".BilletElectrique"
+            android:exported="false" />
+        <activity
+            android:name=".PrincipalActivity"
+            android:exported="false" />
+        <activity
+            android:name=".GuideActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SondageActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DemandeActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".DemandeActivity1"
+            android:exported="false" />
+        <activity
+            android:name=".AvisQuestionsActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".AvisQuestionsActivity1"
+            android:exported="false" />
+        <activity
+            android:name=".CalendarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PostDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Problem3endClass"
+            android:exported="false" />
+        <activity
+            android:name=".Problem2endClass"
+            android:exported="false" />
+        <activity
+            android:name=".ProblemActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Splash_Screen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".profil" />
+        <activity android:name=".forget_password" />
+        <activity android:name=".MiseAjourActivity" />
+        <activity android:name=".registre" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".MainActivity" />
+    </application>
+
+</manifest>

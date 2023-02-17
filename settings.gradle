@@ -1,0 +1,2 @@
+rootProject.name = "Formation_mobile_login"
+include ':app'

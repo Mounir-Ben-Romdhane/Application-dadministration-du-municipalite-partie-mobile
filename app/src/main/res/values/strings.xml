@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Formation_mobile_login</string>
+    <string name="powered_by">Powered by Mounir </string>
+    <string name="email_adresse">Email Adresse :</string>
+    <string name="exemple_gmail_com">exemple@gmail.com</string>
+    <string name="password">Password :</string>
+    <string name="pass">********</string>
+    <string name="forget_password">Forget password !</string>
+    <string name="login">Login</string>
+    <string name="new_user_registrer_now">New User ! Registrer Now</string>
+    <string name="use_other_methods">Use Other Methods</string>
+    <string name="todo">TODO</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password1">Password</string>
+    <string name="register">Register</string>
+    <string name="alrady_have_an_account">Alrady have an account ?</string>
+</resources>

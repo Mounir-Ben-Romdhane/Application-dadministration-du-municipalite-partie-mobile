@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <group android:checkableBehavior="single"
+        >
+        <item
+            android:id="@+id/nev_home"
+            android:icon="@drawable/home_icon_dash"
+            android:title="الرئيسية" />
+
+
+    </group>
+
+    <item android:title="خدمات إدارية"
+        >
+        <menu>
+            <group android:checkableBehavior="single"
+                >
+                <item
+                    android:id="@+id/billet"
+                    android:icon="@drawable/billet"
+                    android:title="التذكرة الإلكترونية" />
+
+                <item
+                    android:id="@+id/guide"
+                    android:icon="@drawable/guide"
+                    android:title="دليل الخدمات" />
+
+                <item
+                    android:id="@+id/nev_demande"
+                    android:icon="@drawable/suivi_demande"
+                    android:title="مطالب النفاذ إلى المعلومة" />
+
+
+                <item
+                    android:id="@+id/problem"
+                    android:icon="@drawable/problem"
+                    android:title="التبليغ عن مشكل" />
+
+                <item
+                    android:id="@+id/roundez_vous"
+                    android:icon="@drawable/rv"
+                    android:title="طلب موعد" />
+
+            </group>
+
+        </menu>
+
+    </item>
+
+    <item android:title="خدمات تشاركية">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/avis"
+                    android:icon="@drawable/avis"
+                    android:title="سبر الآراء" />
+
+                <item
+                    android:id="@+id/mise_a_jour"
+                    android:icon="@drawable/mise_a_jour"
+                    android:title="المستجدات البلدية" />
+
+                <item
+                    android:id="@+id/avis_et_questions"
+                    android:icon="@drawable/avis_et_questions"
+                    android:title="فضاء الآراء و التساؤلات" />
+
+                <item
+                    android:id="@+id/calendrier"
+                    android:icon="@drawable/calendrier"
+                    android:title="رزنامة المواعيد و الأنشطة" />
+
+            </group>
+
+        </menu>
+
+    </item>
+
+
+    <item tools:ignore="MenuTitle">
+        <menu>
+            <group>
+                <item
+                    android:id="@+id/propos"
+                    android:icon="@drawable/propos"
+                    android:title="عن المنصة" />
+            </group>
+        </menu>
+    </item>
+
+</menu>

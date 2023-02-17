@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/drawable-v24/avis.xml" value="0.290625" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/drawable-v24/suivi_demande.xml" value="0.1645" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/drawable-v24/upload_icon.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/drawable/back.xml" value="0.290625" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/drawable/home_icon_dash.xml" value="0.28615384615384615" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/drawable/ic_facebook.xml" value="0.1645" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/drawable/ic_image_black.xml" value="0.290625" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/drawable/ic_person_gray.xml" value="0.290625" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/drawable/ic_search_gray.xml" value="0.290625" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/drawable/menu_icon.xml" value="0.28615384615384615" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/drawable/menulogo_icon.xml" value="0.28615384615384615" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/drawable/next.xml" value="0.28615384615384615" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/drawable/onboarding_indicator_active.xml" value="0.290625" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/drawable/onboarding_indicator_inactive.xml" value="0.290625" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/drawable/oval.xml" value="0.290625" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/drawable/shape_rec03.xml" value="0.176" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/drawable/shape_rec04.xml" value="0.1645" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/drawable/shape_rect01.xml" value="0.28615384615384615" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/drawable/shape_rect02.xml" value="0.152" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/drawable/shape_shadow.xml" value="0.1645" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/layout-v23/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/layout-v23/activity_problem2end_class.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/layout/activity_Home.xml" value="0.2601851851851852" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/layout/activity_avis_questions1.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/layout/activity_avis_questions2.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/layout/activity_billet_electrique.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/layout/activity_calendar.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/layout/activity_dashboard.xml" value="0.24722222222222223" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/layout/activity_demande1.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/layout/activity_demande2.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/layout/activity_forget_password.xml" value="0.2638888888888889" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/layout/activity_formation_forget_pass.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/layout/activity_formation_group1.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/layout/activity_formationregister.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/layout/activity_guide.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/layout/activity_home.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/layout/activity_main.xml" value="0.25555555555555554" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/layout/activity_post_details.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/layout/activity_principal.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/layout/activity_problem.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/layout/activity_problem2end_class.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/layout/activity_problem3end_class.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/layout/activity_profil.xml" value="0.264" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/layout/activity_registre.xml" value="0.27025641025641023" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/layout/activity_rendez_vous.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/layout/activity_second.xml" value="0.264" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/layout/activity_sondage.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/layout/activity_sondage_exist.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/layout/activity_splash_screen.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/layout/header_menu.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/layout/item_container_onboarding.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/layout/row_comment.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/layout/row_label.xml" value="0.264" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/layout/row_post.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/layout/splash_screen.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/menu/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/menu/activity_problem2end_class.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/menu/main_menu.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/Formation_mobile_login/app/src/main/res/menu/menu.xml" value="0.25277777777777777" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
